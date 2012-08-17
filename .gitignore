@@ -10,3 +10,7 @@ obj/
 # Code::Blocks Files
 *.layout
 
+# Temporary Files
+.*.sw[a-z]
+*~
+
